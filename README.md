@@ -17,7 +17,11 @@ This project is a web application that allows users to upload images and classif
 │   │   └── specifications
 │   │       └── data_full.csv
 │   ├── model
-│   │   └──  cars_finetunig.keras
+│   │   ├── cars_finetunig.keras.xaa
+│   │   ├── cars_finetunig.keras.xab
+│   │   ├── cars_finetunig.keras.xac
+│   │   ├── cars_finetunig.keras.xad
+│   │   └── cars_finetunig.keras.xae
 │   ├── notebooks
 │   │   ├── DL_car_recognition_finetuning.ipynb
 │   │   └── ML_car_price_prediction.ipynb
