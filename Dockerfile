@@ -16,11 +16,14 @@ COPY requirements.txt .
 # Install the necessary dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Concat model part to large file
-RUN ./concat_model.sh
+# Copy concat_model.sh
+COPY concat_model.sh .
 
 # Copy the rest of the application code into the container
 COPY . .
+
+# Copy model files
+RUN /bin/bash concat_model.sh
 
 # Expose the port that the FastAPI app will run on
 EXPOSE 8000
