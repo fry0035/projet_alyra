@@ -62,7 +62,7 @@ def read_root():
     return {"message": "Welcome to the Image Classification API"}
 
 @app.post("/predict_image",response_model=Prediction)
-async def predict_image_endpoint(year: int, km: int, energy: str, gb: str, power: int, file: UploadFile = File(...)):
+async def predict_image_endpoint(year: int, km: int, energy: str, transmission: str, power: int, file: UploadFile = File(...)):
     try :
         image = await file.read()
         preprocessed_image = prepocess_image(image)
@@ -72,7 +72,7 @@ async def predict_image_endpoint(year: int, km: int, energy: str, gb: str, power
         number = np.argmax(prediction[0])
         car_model = CARS[int(number)].replace('_', ' ')
         data = load_data(FILE_SPECS, DATA)[car_model]
-        price = predict_price(car_model, year, km, energy, gb, power)
+        price = predict_price(car_model, year, km, energy, transmission, power)
 
         return {
             "Model" : car_model,
