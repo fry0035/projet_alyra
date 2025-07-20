@@ -35,7 +35,7 @@ This project is a web application that allows users to upload images and classif
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone git@github.com:fry0035/projet-alyra
+    git clone https://github.com/fry0035/projet_alyra
     cd projet_alyra
     ```
 
