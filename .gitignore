@@ -1,0 +1,4 @@
+PyCharmMiscProject.iml
+venv
+__pycache__
+app/model/cars_finetuning.keras

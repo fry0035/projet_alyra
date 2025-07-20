@@ -1,0 +1,20 @@
+Marque,Modele,Annee_modele,Km,Date_premiere_mise_en_circulation,Carburant,Boite_vitesse,Puissance,Critere_air,Couleur,Type_vehicule,Pays,Prix_neuf,Prix_occasion
+BMW,Serie 1,2016,72999,2018-05-11,Diesel,Automatique,90,Euro 5,Rouge,Crossover,Japon,35000,26151.0
+BMW,Serie 1,2017,124271,2018-12-23,Essence,Manuelle,110,Euro 5,Rouge,SUV,Allemagne,35000,23517.0
+BMW,Serie 1,2017,130427,2018-11-28,Gaz,Automatique,200,Euro 5,Rouge,Break,Espagne,35000,26730.0
+BMW,Serie 1,2016,43148,2017-11-16,Essence,Automatique,150,Euro 5,Noir,SUV,Japon,35000,27000.0
+BMW,Serie 1,2016,140749,2017-07-11,Essence,Automatique,90,Euro 5,Rouge,Berline,France,35000,22878.0
+BMW,Serie 1,2015,167350,2018-02-26,Hybride,Manuelle,110,Euro 1,Rouge,Monospace,Italie,35000,22287.0
+BMW,Serie 1,2016,115599,2019-05-15,Hybride,Automatique,200,Euro 1,Gris,SUV,Allemagne,35000,27300.0
+BMW,Serie 1,2016,43178,2018-01-13,Diesel,Manuelle,130,Euro 5,Noir,SUV,Italie,35000,26136.0
+BMW,Serie 1,2016,100240,2018-01-06,Hybride,Manuelle,130,Euro 1,Gris,SUV,Japon,35000,25938.0
+BMW,Serie 1,2016,52437,2016-09-24,Hybride,Automatique,110,Euro 1,Noir,Monospace,Allemagne,35000,29181.0
+BMW,Serie 1,2016,58123,2019-12-13,Diesel,Automatique,90,Euro 5,Blanc,Crossover,Allemagne,35000,26909.0
+BMW,Serie 1,2017,247637,2018-02-01,Essence,Automatique,90,Euro 5,Noir,Break,Japon,35000,20295.0
+BMW,Serie 1,2017,172887,2018-03-14,Essence,Automatique,130,Euro 5,Bleu,Break,Espagne,35000,23126.0
+BMW,Serie 1,2015,152241,2018-12-01,Essence,Automatique,110,Euro 5,Rouge,Crossover,Espagne,35000,21518.0
+BMW,Serie 1,2015,178054,2017-06-19,Hybride,Manuelle,110,Euro 1,Bleu,Break,USA,35000,21896.0
+BMW,Serie 1,2017,146484,2020-07-16,Gaz,Manuelle,130,Euro 5,Bleu,Monospace,Allemagne,35000,24570.0
+BMW,Serie 1,2016,65730,2016-03-30,Diesel,Manuelle,200,Euro 5,Bleu,Berline,Japon,35000,25900.0
+BMW,Serie 1,2015,193577,2017-06-29,Essence,Automatique,150,Euro 5,Blanc,Monospace,Allemagne,35000,20250.0
+BMW,Serie 1,2016,130652,2019-07-01,Hybride,Automatique,110,Euro 1,Blanc,Crossover,Italie,35000,25893.0

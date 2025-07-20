@@ -1,0 +1,13 @@
+Marque,Modele,Annee_modele,Km,Date_premiere_mise_en_circulation,Carburant,Boite_vitesse,Puissance,Critere_air,Couleur,Type_vehicule,Pays,Prix_neuf,Prix_occasion
+BMW,Serie 3,2009,99838,2011-10-28,Gaz,Automatique,110,Euro 3,Rouge,Break,USA,45000,22816.0
+BMW,Serie 3,2009,124050,2010-05-23,Diesel,Automatique,110,Euro 3,Rouge,Crossover,Espagne,45000,20683.0
+BMW,Serie 3,2010,248765,2010-10-10,Essence,Automatique,110,Euro 4,Gris,SUV,France,45000,16014.0
+BMW,Serie 3,2009,131079,2011-09-04,Diesel,Manuelle,110,Euro 3,Noir,Monospace,France,45000,19362.0
+BMW,Serie 3,2011,227527,2014-02-24,Gaz,Manuelle,110,Euro 4,Blanc,Break,Espagne,45000,18564.0
+BMW,Serie 3,2009,186629,2009-06-21,Essence,Manuelle,110,Euro 3,Noir,Berline,Italie,45000,16687.0
+BMW,Serie 3,2010,200375,2011-06-26,Hybride,Automatique,110,Euro 1,Rouge,Berline,Italie,45000,19418.0
+BMW,Serie 3,2010,145965,2013-03-14,Essence,Manuelle,110,Euro 4,Bleu,Monospace,France,45000,19844.0
+BMW,Serie 3,2008,190263,2010-03-18,Essence,Automatique,110,Euro 3,Rouge,SUV,France,45000,15543.0
+BMW,Serie 3,2009,191393,2011-04-21,Diesel,Automatique,110,Euro 3,Blanc,Monospace,Japon,45000,17316.0
+BMW,Serie 3,2010,217454,2013-03-21,Diesel,Manuelle,110,Euro 4,Blanc,SUV,Italie,45000,17057.0
+BMW,Serie 3,2009,225387,2010-03-07,Diesel,Manuelle,110,Euro 3,Blanc,SUV,USA,45000,15213.0
