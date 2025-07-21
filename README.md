@@ -1,7 +1,7 @@
 # IA App for CNN classification with fastapi
 
 ## Description
-This project is a web application that allows users to upload images and classify them using an EfficientNetB7 CNN model optimized wit finetuning. The application is built using FastAPI.
+This project is a web application that allows users to upload images and classify them using a pre-trained CNN model. The application is built using FastAPI.
 
 
 ## Project Structure
@@ -17,14 +17,12 @@ This project is a web application that allows users to upload images and classif
 │   │   └── specifications
 │   │       └── data_full.csv
 │   ├── model
-│   │   ├── cars_finetunig.keras.xaa
-│   │   ├── cars_finetunig.keras.xab
-│   │   ├── cars_finetunig.keras.xac
-│   │   ├── cars_finetunig.keras.xad
-│   │   └── cars_finetunig.keras.xae
+│   │   └──  cars_finetunig.keras
 │   ├── notebooks
 │   │   ├── DL_car_recognition_finetuning.ipynb
 │   │   └── ML_car_price_prediction.ipynb
+│   ├── rapport
+│   │   └── Livret d'apprentissage RNCP38616 - François ROY - Alyra - Promotion Berners Lee (2025).pdf
 │   ├── __init__.py
 │   ├── includes.py
 │   ├── main.py
@@ -39,7 +37,7 @@ This project is a web application that allows users to upload images and classif
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/fry0035/projet_alyra
+    git clone git@github.com:fry0035/projet-alyra
     cd projet_alyra
     ```
 
@@ -60,8 +58,4 @@ This project is a web application that allows users to upload images and classif
 **FastAPI Interface**:
    - Navigate to `http://localhost:8000/docs` to access the Swagger UI.
    - You can fill in the fields and upload an image to get the results.
-     Expected values for text fields :
-      energy : "Essence", "Diesel", "Hybride", "Electrique",
-      transmission : "Manuelle", "Automatique"
-   
 
