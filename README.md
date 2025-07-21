@@ -57,5 +57,6 @@ This project is a web application that allows users to upload images and classif
 ## Usage
 **FastAPI Interface**:
    - Navigate to `http://localhost:8000/docs` to access the Swagger UI.
-   - You can fill in the fields and upload an image to get the results.
-
+   - You can fill in the fields and upload an image to get the results, with the two text fields :
+     - energy : 'Essence', 'Diesel', 'Hybride', 'Electrique'
+     - transmission : 'Manuelle', 'Automatique'
