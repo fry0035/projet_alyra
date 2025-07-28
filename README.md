@@ -1,7 +1,9 @@
-# IA App for CNN classification with fastapi
+# IA App for CNN (based on an EfficientNetB7 pre-trained model) classification with fastapi
+
+https://github.com/fry0035/projet_alyra
 
 ## Description
-This project is a web application that allows users to upload images and classify them using a pre-trained CNN model. The application is built using FastAPI.
+This project is a web application that allows users to upload images of cars and classify them using a pre-trained CNN model optimized with Transfer Learning and Fine Tuning. The result of this image recognition also allows the estimation of the current price of the car with simple Machine Learning processing. The application is built using FastAPI.
 
 
 ## Project Structure
@@ -37,7 +39,7 @@ This project is a web application that allows users to upload images and classif
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone git clone https://github.com/fry0035/projet_alyra
+    git clone https://github.com/fry0035/projet_alyra
     cd projet_alyra
     ```
 
